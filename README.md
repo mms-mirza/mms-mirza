@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=true&multiline=true&width=435&height=55&lines=Data+Science+Trainee;%40DigitalFutures" alt="Typing SVG" /></a>
-
-<br><br>
-<img src="Images/Dynamic/snake.svg" style="background:#161b22;">
-<br><br><br><br>
-
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=100&center=true&multiline=true&width=435&height=69&lines=Data+Science+Trainee;%40DigitalFutures" alt="Typing SVG" /></a>
+    <br><br>
+        <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+    <br><br><br><br>
+</p>
 <hr><br>
 <table align='center'>
     <tr>
